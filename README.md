@@ -36,7 +36,11 @@ APK Analyzer helps Android users understand APK files and make safer installatio
 ![Instant Security Analysis](images/Instant%20Security%20Analysis.png)
 
 ### Review APK Components
+
 ![Review APK Components](images/Review%20APK%20Components.png)
 
 Learn more:
 https://ddrivemode.com/apk-analyzer/
+
+
+https://ddrivemode.github.io/apk-analyzer/
