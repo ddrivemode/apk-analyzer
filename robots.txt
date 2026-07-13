@@ -1,1 +1,4 @@
+User-agent: *
+Allow: /
 
+Sitemap: https://ddrivemode.github.io/apk-analyzer/sitemap.xml
